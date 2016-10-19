@@ -127,7 +127,7 @@ function romanTime(time) {
             str += getHours(times[1] % 10);
         }
     }
-
+    
     return str;
 }
 
